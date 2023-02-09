@@ -1,0 +1,43 @@
+body {
+  background-image: url(https://i.redd.it/pkkxftw762661.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+@font-face {
+  font-family: y;
+  src: url(Purrfect.ttf);
+}
+@font-face {
+  font-family: o;
+  src: url(Wigglye.ttf);
+}
+.hbd {
+  font-size: 700%;
+  font-family: y;
+}
+.name {
+  position: relative;
+  bottom: 150px;
+  font-size: 800%;
+  font-family: y;
+}
+.container {
+  position: relative;
+  bottom: 250px;
+  width: 50%;
+  background-color: white;
+  margin: auto;
+  border-radius: 20px;
+  box-shadow: 10px 10px 10px 10px rgba(0, 0, 0, 0.253);
+}
+.teks {
+  font-family: o;
+  font-size: 20px;
+}
+img {
+  position: relative;
+  bottom: 200px;
+  height: 20%;
+  width: 20%;
+}
